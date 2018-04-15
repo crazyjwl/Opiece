@@ -1,0 +1,12 @@
+
+@font-face {
+font-family: 'Windsor Outline BT';
+font-style: normal;
+font-weight: normal;
+src: local('Windsor Outline BT'), url('Windsor Outline BT.woff') format('woff');
+}
+
+h1{
+  font-family: 'Windsor Outline BT';
+  color: #92BCAF;
+}
