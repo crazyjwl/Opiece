@@ -53,4 +53,10 @@ export const friends = [
     username : "brook",
     email : "brook@opiece.com",
   },
+  {
+    id :10,
+    name : "Crazy Jiang",
+    username :"crazy",
+    email : "crazy.opiece.com",
+  },
 ]
