@@ -2,37 +2,37 @@ export const friends = [
   {
     id : 1,
     name : "Monkey D Luffy",
-    username : "Luffy",
+    username : "luffy",
     email : "lufffy@opiece.com",
   },
   {
     id : 2,
     name : "Roronoa Zoro",
-    username : "Zoro",
+    username : "zoro",
     email : "zoro@opiece.com",
   },
   {
     id : 3,
     name : "Nami",
-    username : "Nami",
+    username : "nami",
     email : "nami@opiece.com",
   },
   {
     id : 4,
     name : "Usopp",
-    username : "Usopp",
+    username : "usopp",
     email : "usopp@opiece.com",
   },
   {
     id : 5,
     name : "Sanji",
-    username : "Sanji",
+    username : "sanji",
     email : "sanji@opiece.com",
   },
   {
     id : 6,
     name : "Tonytony Chopper",
-    username : "Chopper",
+    username : "chopper",
     email : "chopper@opiece.com",
   },
   {
@@ -44,13 +44,13 @@ export const friends = [
   {
     id : 8,
     name : "Franky",
-    username : "Franky",
+    username : "franky",
     email : "franky@opiece.com",
   },
   {
     id : 9,
     name : "Brook",
-    username : "Brook",
+    username : "brook",
     email : "brook@opiece.com",
   },
 ]
